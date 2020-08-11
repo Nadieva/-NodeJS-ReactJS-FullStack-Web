@@ -1,4 +1,4 @@
-Please go to https://afternoon-hamlet-17159.herokuapp.com to see my application.
+Please go to https://afternoon-hamlet-17159.herokuapp.com to see my application. I have done this project thanks to a Udemy class :https://www.udemy.com/course/node-with-react-fullstack-web-development/
 
 ## Goal
 This application was built to send surveys by email where the sendee can answer to it in their email message. The administrator can log in and see the results  of all feedbacks. When we want to send surveys, we need credits so  you can add some  by filling the payment form (Please fill in the card number: "42424242424242...").
